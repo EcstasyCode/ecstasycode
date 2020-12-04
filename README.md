@@ -8,5 +8,5 @@ Keybase: @ecstasycode
 ```
 
 # 🏆 Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecstasycode&show_icons=true&theme=dark&bg_color=E86444,904E95&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasycode&theme=dark&bg_color=#B35774,#E86444,#904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecstasycode&show_icons=true&bg_color=E86444,904E95&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasycode&bg_color=#E86444,#904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
