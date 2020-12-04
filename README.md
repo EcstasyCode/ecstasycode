@@ -9,4 +9,4 @@ Telegram: @ecstasycode (Bin ich nicht aktiv.)
 ```
 
 ### 🏆 - Most used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcstasyCode)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcstasyCode&theme=tokyonight)
