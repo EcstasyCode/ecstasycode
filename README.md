@@ -1,6 +1,6 @@
 ### Hi, I'm EcstasyCode. 
 - 📫 Mich kann man auf Discord kontaktieren und auf Keybase
-- 🔭 Ich arbeite derzeit an einem Botnet namens Vanity.
+- 🔭 I'm currently working on a Botnet with my Friend.
 - 🌱 Ich lerne im moment C# und C
 ```
 Discord: EcstasyCode#1337
