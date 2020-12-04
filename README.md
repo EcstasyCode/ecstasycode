@@ -1,11 +1,10 @@
 ### Hi, I'm EcstasyCode. 
-- 📫 Mich kann man auf Discord kontaktieren und auf Keybase
+- 📫 You can contact me on Discord and Keybase
 - 🔭 I'm currently working on a Botnet with my Friend.
-- 🌱 Ich lerne im moment C# und C
+- 🌱 I'm learning C# and C
 ```
 Discord: EcstasyCode#1337
 Keybase: @ecstasycode
-Telegram: @ecstasycode (Bin ich nicht aktiv.)
 ```
 
 # 🏆 Github Stats:
