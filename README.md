@@ -1,7 +1,7 @@
 ### Hi, I'm EcstasyCode. 
 - 📫 - You can contact me on Discord and Keybase
 - ⌨️ - I'm currently working on a Botnet with my Friend.
-- 📙 - I'm currently learning C# and C
+- 📙 - Go & Java Developer
 ```
 Discord: EcstasyCode#1337
 Keybase: @ecstasycode
