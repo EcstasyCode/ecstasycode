@@ -2,6 +2,7 @@
 - 📫 - You can contact me on Discord, Telegram and Keybase
 - ⌨️ - Vality Botnet Developer
 - 📙 - Go, Kotlin & Java Developer
+- Location: in your mother
 ```
 Discord: BANNED
 Keybase: @ecstasycode
