@@ -1,12 +1,10 @@
 ### Hi, I'm EcstasyCode. 
-- 📫 - You can contact me on Discord, Telegram and Keybase
-- ⌨️ - Vality Botnet Developer
+- 📫 - You can contact me on Discord
 - 📙 - Go, Kotlin & Java Developer
 - Location: in your mother
 ```
-Discord: BANNED
-Keybase: @ecstasycode
-Telegram: @ecstasycode
+Discord: EcstasyCode#1337
+
 ```
 
 # 🏆 Github Stats:
