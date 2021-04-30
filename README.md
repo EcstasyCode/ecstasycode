@@ -4,7 +4,6 @@
 - ✔️ | Developer of the Nastrovje and Nyan Client.
 ```
 Discord: EcstasyCode#0069
-
 ```
 
 # ❤️ | Nastrovje Client
