@@ -5,7 +5,7 @@
 
 # ❤️ | Nastrovje Client
 - 💉 | Nastrovje is a invite only Client made by me in Fabric.
-- 📝 | Main Language: Java
+- 📝 | Main Language: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
 
 # 🖤 | Github Stats:
