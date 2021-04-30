@@ -1,14 +1,10 @@
 # 💜 | Hi, I'm EcstasyCode. 
-- 📫 | You can contact me on Discord
+- 📫 | Contact: EcstasyCode#0069
 - 📖 | Go & Java Developer
 - ✔️ | Developer of the Nastrovje and Nyan Client.
-```
-Discord: EcstasyCode#0069
-```
 
 # ❤️ | Nastrovje Client
 - 💉 | Nastrovje is a invite only Client made by me in Fabric.
-- 📫 | Contact: EcstasyCode#0069
 - 📝 | Main Language: Java
 
 
