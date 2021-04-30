@@ -12,6 +12,5 @@ Discord: EcstasyCode#0069
 - 📝 | Main Language: Java
 
 
-# 🏆 | Github Stats:
+# 🖤 | Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ecstasycode&show_icons=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecstasycode&layout=compact)](https://github.com/ecstasycode)
