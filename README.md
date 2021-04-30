@@ -1,4 +1,4 @@
-# 💜 | Hi, I'm EcstasyCode. 
+# 💜 | Hewwo
 - 📫 | Contact: EcstasyCode#0069
 - 📖 | Go & Java Developer
 - ✔️ | Developer of the Nastrovje and Nyan Client.
