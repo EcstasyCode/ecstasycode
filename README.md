@@ -3,9 +3,9 @@
 - 📖 | Go & Java Developer
 - ✔️ | Developer of the Nastrovje and Nyan Client.
 
-# ❤️ | Nastrovje Client
-- 💉 | Nastrovje is a invite only Client made by me in Fabric.
-- 📝 | Main Language: Java
+# ❤️ | GTA 5 Mod Menu
+- 💉 | Nastrovje (Mod Menu) is a private mod menu coded by me.
+- 📝 | Main Language: C++
 
 
 # 🖤 | Github Stats:
